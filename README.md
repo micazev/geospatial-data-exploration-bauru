@@ -1,3 +1,2 @@
-# replanejando_bauru
-Oficina de Planejamento Urbano da UFABC - Analizar o território e idealizar um outro plano direto para a cidade. Cidade escolhida: Bauru.
-# replanejando_bauru
+# Geographic Data Analysis in Python
+This repository contains Python code for performing geographic data analysis using various libraries, including Geopandas, PyShp, Shapely, and Descartes. It includes examples of loading, processing, and visualizing geographic data in the city of Bauru, Brazil.
