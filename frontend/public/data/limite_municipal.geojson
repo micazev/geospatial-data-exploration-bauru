@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Bauru",
+        "area_km2": 667.7
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-49.2100, -22.1600],
+          [-49.2100, -22.4700],
+          [-48.9100, -22.4700],
+          [-48.9100, -22.1600],
+          [-49.2100, -22.1600]
+        ]]
+      }
+    }
+  ]
+}

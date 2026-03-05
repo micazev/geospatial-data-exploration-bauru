@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Mancha Urbana de Bauru",
+        "ID_OBJETO": 1575
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-49.1100, -22.2700],
+          [-49.1100, -22.3800],
+          [-49.0100, -22.3800],
+          [-49.0100, -22.2700],
+          [-49.1100, -22.2700]
+        ]]
+      }
+    }
+  ]
+}

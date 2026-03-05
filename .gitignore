@@ -1,0 +1,5 @@
+# Shapefiles and raw geodata (large binary files)
+/data/
+
+# OS
+.DS_Store
